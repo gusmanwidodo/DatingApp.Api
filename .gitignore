@@ -4,3 +4,6 @@
 # Built Result
 bin
 obj
+
+# Migrations
+*.db
