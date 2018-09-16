@@ -1,0 +1,6 @@
+# Editor
+.vscode
+
+# Built Result
+bin
+obj
