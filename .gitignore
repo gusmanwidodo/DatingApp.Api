@@ -7,3 +7,4 @@ obj
 
 # Migrations
 *.db
+*.db-journal
